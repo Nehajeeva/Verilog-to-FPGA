@@ -129,6 +129,7 @@ Combinational/
     └── Block_Diagram.png
 ## 📁 Structure of Each Circuit
 Each circuit follows the same structure:
+
 ```text
 Circuit Name/
 │
