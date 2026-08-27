@@ -24,8 +24,6 @@ FPGA Utilization
 The objective of this repository is to build a practical understanding of **digital system design using Verilog HDL**, while exploring how RTL designs are transformed into hardware implementations on FPGA platforms.
 ## 📂 Repository
 Verilog-to-FPGA
-│
-├── Combinational
-│
-└── Sequential
+   Combinational
+   Sequential
 
