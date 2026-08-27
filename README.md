@@ -127,9 +127,9 @@ Combinational/
     ├── Utilization.png
     ├── Synthesis.png
     └── Block_Diagram.png
-```
-## 📌 Six Parts in Every Circuit
+## 📁 Structure of Each Circuit
 Each circuit follows the same structure:
+```text
 Circuit Name/
 │
 ├── 1. UUT / RTL Code
@@ -138,6 +138,8 @@ Circuit Name/
 ├── 4. Utilization
 ├── 5. Synthesis
 └── 6. Block Diagram
+```
+
 ### 1. UUT / RTL Code
 The actual **Verilog design** of the circuit.
 Example:
