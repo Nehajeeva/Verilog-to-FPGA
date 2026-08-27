@@ -127,6 +127,7 @@ Combinational/
     ├── Utilization.png
     ├── Synthesis.png
     └── Block_Diagram.png
+```
 ## 📁 Structure of Each Circuit
 Each circuit follows the same structure:
 
