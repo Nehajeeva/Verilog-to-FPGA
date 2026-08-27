@@ -28,6 +28,8 @@ Verilog-to-FPGA
    ### 🔹 [Sequential](./Sequential)
 
 # 📂 Combinational Circuits — Repository Structure
+
+```text
 Combinational/
 │
 ├── Adder And Sub/
@@ -125,6 +127,7 @@ Combinational/
     ├── Utilization.png
     ├── Synthesis.png
     └── Block_Diagram.png
+```
 ## 📌 Six Parts in Every Circuit
 Each circuit follows the same structure:
 Circuit Name/
